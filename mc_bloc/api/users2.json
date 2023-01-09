@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "first_name": "Timothy",
+    "email": "tglassard0@columbia.edu"
+  },
+  {
+    "id": 2,
+    "first_name": "Sylas",
+    "email": "slemanu1@amazon.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Whitney",
+    "email": "wdunckley2@51.la"
+  },
+  {
+    "id": 4,
+    "first_name": "Tarrance",
+    "email": "twarkup3@toplist.cz"
+  },
+  {
+    "id": 5,
+    "first_name": "Grier",
+    "email": "ggiorio4@merriam-webster.com"
+  },
+  {
+    "id": 6,
+    "first_name": "Merrilee",
+    "email": "mmenendez5@fastcompany.com"
+  },
+  {
+    "id": 7,
+    "first_name": "Skippy",
+    "email": "smckeller6@123-reg.co.uk"
+  },
+  {
+    "id": 8,
+    "first_name": "Hildy",
+    "email": "hbehnen7@goodreads.com"
+  },
+  {
+    "id": 9,
+    "first_name": "Glennis",
+    "email": "gmcguiness8@jigsy.com"
+  },
+  {
+    "id": 10,
+    "first_name": "Faustina",
+    "email": "fkuhl9@kickstarter.com"
+  }
+]
